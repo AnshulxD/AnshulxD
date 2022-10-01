@@ -1,12 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/anshulxd/anshulxd/blob/main/Wave.gif" height="55px" width="55px">, It's Anshul aka Anshoool</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Cybersecurity | Learner
-
-[![@anshulxd's Holopin board](https://holopin.io/api/user/board?user=anshulxd)](https://holopin.io/@anshulxd)|
-
-
-?></h3>
+Programmer | Cybersecurity | Learner?></h3>
 
 - 🔭 I’m currently working on **Website Pentesting**
 
@@ -69,3 +64,4 @@ Programmer | Cybersecurity | Learner
 [instagram]: https://instagram.com/ig_anshul2k
 [linkedin]: https://www.linkedin.com/in/anshul-dubey-71b314200/
 [telegram]: https://t.me/anshulgwad
+[![@anshulxd's Holopin board](https://holopin.io/api/user/board?user=anshulxd)](https://holopin.io/@anshulxd)|
