@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/anshulxd/anshulxd/blob/main/Wave.gif" height="55px" width="55px">, It's Anshul aka Anshoool</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Cybersecurity | Learner?></h3>
+Programmer | Cybersecurity | Learner?</h3>
 
 - 🔭 I’m currently working on **Website Pentesting**
 
