@@ -92,6 +92,9 @@
   
 
 <br/>  
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulxd&show_icons=true&locale=en&layout=compact" alt="Anshoool" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshulxd&show_icons=true&locale=en" alt="anshoool" /></p>
 
 
 ## Github Stats  
