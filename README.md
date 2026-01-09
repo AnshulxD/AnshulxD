@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshulxD/AnshulxD/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshulxD/AnshulxD/output/pacman-contribution-graph.svg">
@@ -21,7 +23,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://gifdb.com/images/high/natsu-dragneel-fairy-tail-shaking-head-q9jqt44v4rtzi5q6.gif"  />
+<img align="left" height="250" src="https://gifdb.com/images/high/natsu-dragneel-fairy-tail-shaking-head-q9jqt44v4rtzi5q6.gif"  />
 
 ###
 
@@ -39,6 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bots" height="30" alt="abbrobotstudio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
 </div>
 
 ###
